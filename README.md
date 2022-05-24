@@ -62,8 +62,6 @@ _개발기간 : 202102 ~ 202106_
 __7. 구현 화면과 실행 영상__  
 -----------------------------------------------
 
-[FTclone_211203.pdf](https://github.com/thswlsqls/ftclone/files/7645718/FTclone_211203.pdf)
-
 https://user-images.githubusercontent.com/58901024/143205041-1c280c81-de88-42b5-a0ff-c05e7e61ebaa.mp4
 
 mern web project made by oneself, deployed by amazon web service  
