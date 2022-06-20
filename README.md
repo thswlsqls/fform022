@@ -46,10 +46,13 @@ __5. 프로젝트 설계__
 1) 시스템 구조도
 ![image](https://user-images.githubusercontent.com/58901024/143247771-feb43aad-51c5-447e-8f38-9aa2cff0389c.png)  
 
-2) 개발환경  
+2) 유스케이스 다이어그램과 사이트맵
+![image](https://user-images.githubusercontent.com/58901024/174514908-80fc1cdf-c2d6-493d-be0b-101496bc79a4.png)
+
+3) 개발환경  
 ![image](https://user-images.githubusercontent.com/58901024/143248017-7fef707d-cd05-4ba3-8c4a-6a500093a1be.png)  
 
-3) 데이터베이스 설계  
+4) 데이터베이스 설계  
 ![image](https://user-images.githubusercontent.com/58901024/143248158-deef4b2f-cfd2-47f7-bf73-32106e20f05d.png)  
 
 ----------------------------------------------- 
