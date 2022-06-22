@@ -1,13 +1,13 @@
-# FTCLONE README.md 
-## Facebook & Typeform clone MERN stack webapp
+# Ffrom.link README.md 
+## Facebook & Typeform clone MERN stack web project
 
 -----------------------------------------------
 __1. 프로젝트 개요__
 -----------------------------------------------  
 [ 구현 기능 ]  
-1) 게시판에 이미지 및 동영상 파일들을 업로드, 간단한 캘린더 기능
+1) 페이스북 게시판에 이미지 및 동영상 파일들을 업로드, 캘린더와 특일조회 기능
 2) 댓글과 답글, 좋아요 등록, 제작한 설문조사를 배포
-3) 설문조사를 생성하고 수정, 삭제, 배포하여 응답 결과를 확인
+3) 설문조사를 생성하고 수정, 삭제, 배포하고 응답 결과를 확인
 
 [ 활용 기술 ]  
 1) Front - Javascript(ES6), HTML, CSS, React(JSX, Babel, Hot reload, CSR), React Hooks, Redux, Redux-devtooks, Chrome-devtools  
@@ -46,10 +46,13 @@ __5. 프로젝트 설계__
 1) 시스템 구조도
 ![image](https://user-images.githubusercontent.com/58901024/143247771-feb43aad-51c5-447e-8f38-9aa2cff0389c.png)  
 
-2) 개발환경  
+2) 유스케이스 다이어그램과 사이트맵
+![image](https://user-images.githubusercontent.com/58901024/174514908-80fc1cdf-c2d6-493d-be0b-101496bc79a4.png)
+
+3) 개발환경  
 ![image](https://user-images.githubusercontent.com/58901024/143248017-7fef707d-cd05-4ba3-8c4a-6a500093a1be.png)  
 
-3) 데이터베이스 설계  
+4) 데이터베이스 설계  
 ![image](https://user-images.githubusercontent.com/58901024/143248158-deef4b2f-cfd2-47f7-bf73-32106e20f05d.png)  
 
 ----------------------------------------------- 
@@ -62,8 +65,6 @@ _개발기간 : 202102 ~ 202106_
 __7. 구현 화면과 실행 영상__  
 -----------------------------------------------
 
-[FTclone_211203.pdf](https://github.com/thswlsqls/ftclone/files/7645718/FTclone_211203.pdf)
-
 https://user-images.githubusercontent.com/58901024/143205041-1c280c81-de88-42b5-a0ff-c05e7e61ebaa.mp4
 
 mern web project made by oneself, deployed by amazon web service  
@@ -71,7 +72,7 @@ mern web project made by oneself, deployed by amazon web service
 you can simply check the *.pdf, *_execution.mp4 files  
 
 ◻ website domain ◻    
-## www.ftclone.com  
+## fform022.link  
 
 ◾ guest account ◾  
 
