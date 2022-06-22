@@ -3776,7 +3776,7 @@ function FormPage() {
                 className='Input-sc-__iwhi9i-1 hpXKSO'
                 value={
                   miniform.miniformData
-                    ? `https://www.my-awssimplified.com/${user.userData._id}/to/${miniform.miniformData._id}`
+                    ? `https://fform-published.link/${user.userData._id}/to/${miniform.miniformData._id}`
                     : `워크스페이스에서 미니폼을 다시 선택해주세요. `
                 }
               ></input>
