@@ -1,13 +1,13 @@
-# FTCLONE README.md 
-## Facebook & Typeform clone MERN stack webapp
+# Ffrom.link README.md 
+## Facebook & Typeform clone MERN stack web project
 
 -----------------------------------------------
 __1. 프로젝트 개요__
 -----------------------------------------------  
 [ 구현 기능 ]  
-1) 게시판에 이미지 및 동영상 파일들을 업로드, 간단한 캘린더 기능
+1) 페이스북 게시판에 이미지 및 동영상 파일들을 업로드, 캘린더와 특일조회 기능
 2) 댓글과 답글, 좋아요 등록, 제작한 설문조사를 배포
-3) 설문조사를 생성하고 수정, 삭제, 배포하여 응답 결과를 확인
+3) 설문조사를 생성하고 수정, 삭제, 배포하고 응답 결과를 확인
 
 [ 활용 기술 ]  
 1) Front - Javascript(ES6), HTML, CSS, React(JSX, Babel, Hot reload, CSR), React Hooks, Redux, Redux-devtooks, Chrome-devtools  
