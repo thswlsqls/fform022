@@ -1,10 +1,17 @@
-# REACTJS + NODEJS + MONGODB WEB PROJECT README.md
 
-# Domain -> [fform022.link](https://fform022.link/) 
+◻ website domain ◻ 
+--
+
+# [https://fform022.link](https://fform022.link/) (2023-05 서비스 종료)
 http://3.38.235.90/ 
 
-# 2023-05 서비스 종료
 
+◾ guest account ◾
+--
+### email: ftclone@naver.com
+### password: ftclone12345
+
+---
 
 ## Facebook & Typeform clone MERN stack webapp
 
@@ -151,16 +158,5 @@ mern web project made by oneself, deployed by amazon web service
 
 you can simply check the _.pdf, _\_execution.mp4 files
 
-◻ website domain ◻
-
-## [fform022.link](https://fform022.link/)
-
-http://3.38.235.90/ 
-
-◾ guest account ◾
-
-## email: ftclone@naver.com
-
-## password: ftclone12345
 
 #비대면문화 #재택근무 #온라인수업 #폼서비스활용증가
