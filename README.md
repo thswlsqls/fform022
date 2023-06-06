@@ -7,8 +7,8 @@
 
 ◾ guest account ◾
 --
-### email: ft@naver.com
-### password: 123456789012
+### email: ftclone@naver.com
+### password: ftclone12345
 
 ---
 
