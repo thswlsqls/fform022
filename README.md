@@ -2,7 +2,7 @@
 ◻ website domain ◻ 
 --
 
-[https://fform022.link](https://fform022.link/) (deprecated)
+[https://fform022.link](https://fform022.link/) (사용안함)
 # http://fform023demoalb-133678991.ap-northeast-2.elb.amazonaws.com 
 
 
