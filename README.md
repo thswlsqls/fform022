@@ -1,9 +1,12 @@
 
 ◻ website domain ◻ 
 --
+fform024.link
 
-[https://fform022.link](https://fform022.link/) (사용안함)
-# http://fform023demoalb-133678991.ap-northeast-2.elb.amazonaws.com 
+◻ 종료된 기능 ◻ 
+1. 캘린더 특일 조회
+2. 실시간 다대다 채팅
+3. 설문조사 배포
 
 
 ◾ guest account ◾
